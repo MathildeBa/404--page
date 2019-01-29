@@ -10,8 +10,7 @@ Exercice BeCode. Premier Exercice en Html-Css. Deuxième semaine 14/01.
 - Faire un nouveau projet sur GitHub nommé **"404 Page"**
 - Réaliser votre **Page 404** en **HTML** et **CSS**
 - Créer un bouton **"retour"** qui dirige vers votre profile GitHub 
-- Mettre en ligne grâce à [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
-
+- Mettre en ligne grâce via GitHub.
 ## Difficultés 
 -début du CSS
 -frustration de ne pas vouloir faire ce que je voulais
